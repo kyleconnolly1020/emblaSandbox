@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icon - Play@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,3.33333333 C10.8,3.33333333 3.33333333,10.8 3.33333333,20 C3.33333333,29.2 10.8,36.6666667 20,36.6666667 C29.2,36.6666667 36.6666667,29.2 36.6666667,20 C36.6666667,10.8 29.2,3.33333333 20,3.33333333 Z M16.6666667,27.5 L16.6666667,12.5 L26.6666667,20 L16.6666667,27.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Banners/Ad-Playlist" transform="translate(-318.000000, -11.000000)">
+            <g id="icon/av/play_circle_filled_24px" transform="translate(315.000000, 8.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g fill-rule="nonzero"></g>
+                <g id="Colors/Yellow/1-(Primary)" mask="url(#mask-2)" fill="#FAC51C" fill-rule="evenodd">
+                    <polygon id="Backing" points="0 0 40 0 40 40 0 40"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

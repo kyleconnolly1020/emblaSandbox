@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="72px" viewBox="0 0 111 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Back (Game Wheel)@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#666666" offset="0%"></stop>
+            <stop stop-color="#3A3933" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop---Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V2---Plndr---Desktop---Pick-Slot---1" transform="translate(-89.000000, -162.000000)">
+            <g id="Back-(Game-Wheel)" transform="translate(89.000000, 162.000000)">
+                <circle id="Oval" fill-opacity="0.1" fill="#000000" cx="36" cy="36" r="36"></circle>
+                <polygon id="icon/navigation/arrow_back_24px" fill="url(#linearGradient-1)" fill-rule="nonzero" points="110.425626 30.5 37.1777778 30.5 45.1555556 20.6275 39.7777778 14 22 36 39.7777778 58 45.1333333 51.3725 37.1777778 41.5 110.425626 41.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

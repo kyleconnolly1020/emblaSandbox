@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icon - My Wallet@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,4 C21.1045695,4 22,4.8954305 22,6 L22,18 C22,19.1045695 21.1045695,20 20,20 L6,20 C4.8954305,20 4,19.1045695 4,18 L4,17 L11,17 C11.5128358,17 11.9355072,16.6139598 11.9932723,16.1166211 L12,16 L12,8 C12,7.44771525 11.5522847,7 11,7 L11,7 L4,7 L4,6 C4,4.8954305 4.8954305,4 6,4 L20,4 Z M9,9 C9.55228475,9 10,9.44771525 10,10 L10,14 C10,14.5522847 9.55228475,15 9,15 L3,15 C2.44771525,15 2,14.5522847 2,14 L2,10 C2,9.44771525 2.44771525,9 3,9 L9,9 Z M7,11 C6.44771525,11 6,11.4477153 6,12 C6,12.5522847 6.44771525,13 7,13 C7.55228475,13 8,12.5522847 8,12 C8,11.4477153 7.55228475,11 7,11 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop---Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V2---Plndr---Desktop---Navigation-Drawer---1" transform="translate(-62.000000, -396.000000)">
+            <g id="Menu" transform="translate(40.000000, 96.000000)">
+                <g transform="translate(0.000000, 48.000000)" id="Menu-/-Data-Sets-/-Business-Logged-In">
+                    <g transform="translate(0.000000, 120.000000)">
+                        <g id="Stacked-Group">
+                            <g id="Org-Details-Copy" transform="translate(0.000000, 120.000000)">
+                                <g id="icon/a_menu/wallet" transform="translate(20.000000, 8.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Rectangle-2"></g>
+                                    <g id="Colors/Yellow/1-(Primary)" mask="url(#mask-2)" fill="#FAC51C" fill-rule="evenodd">
+                                        <polygon id="Backing" points="0 0 24 0 24 24 0 24"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
