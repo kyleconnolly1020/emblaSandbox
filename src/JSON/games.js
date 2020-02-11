@@ -2,27 +2,19 @@ export const data = [
     {
         "gameid": "1",
         "prizeValue": "$100", 
-        //Amount required to enter into the game (either direct payment or through ads value collection)
         "entryValue": 5,
-        //Number of users required to fill the game
         "maxUsers": 20,
-        //Has the game been completely filled
         "filled": false, 
-        //Dollar amount that is currently collected
         "fillStatusFiat": "$80",
-        //Number of users currently entered
         "fillStatusUsers": 16,
-        //Whether or not the specicic user has enterd into the game (to either lock their entry in the UI or not)
         "userEntered": false, 
-        //Cannon shots awarded for entry 
         "cannonsGiven": 5,
-        //Array of player objects who are entered into the game 
         "players": [
             {
-                "name": "Kyle Connolly"
+                "name": "KC"
             },
             {
-                "name": "Christine Vadai"
+                "name": "CV"
             }
         ]
     },
@@ -38,10 +30,10 @@ export const data = [
         "cannonsGiven": 2,
         "players": [
             {
-                "name": "Kyle Connolly"
+                "name": "KC"
             },
             {
-                "name": "Christine Vadai"
+                "name": "CV"
             }
         ]
     },
@@ -57,10 +49,10 @@ export const data = [
         "cannonsGiven": 8,
         "players": [
             {
-                "name": "Kyle Connolly"
+                "name": "KC"
             },
             {
-                "name": "Christine Vadai"
+                "name": "CV"
             }
         ]
     },
@@ -76,10 +68,10 @@ export const data = [
         "cannonsGiven": 5,
         "players": [
             {
-                "name": "Kyle Connolly"
+                "name": "KC"
             },
             {
-                "name": "Christine Vadai"
+                "name": "CV"
             }
         ]
     },
@@ -95,10 +87,10 @@ export const data = [
         "cannonsGiven": 2,
         "players": [
             {
-                "name": "Kyle Connolly"
+                "name": "KC"
             },
             {
-                "name": "Christine Vadai"
+                "name": "CV"
             }
         ]
     },
